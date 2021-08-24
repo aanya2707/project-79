@@ -11,6 +11,7 @@ menu_list_array.sort();
 }
 
 function add_item(){
+    var imgtags='<img id="im1" src="download.jpg">';
 var htmldata;
 var item=document.getElementById("add_item").value;
         menu_list_array.sort();
